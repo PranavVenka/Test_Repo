@@ -1,5 +1,5 @@
+#Opening h.txt file.
 file_contnets = open("h.txt","r")
-
 
 result = {}
 a = file_contents.split()
